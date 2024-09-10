@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Johnny
 
-I'm a **Full-Stack Developer** with a passion for building innovative and impactful software solutions. With a background in Computer Science and over a decade of experience in high-level restaurant management, I bring a unique perspective to the tech world. My journey from managing teams to managing code has fueled my curiosity and drive to learn and create.
+I'm a **Full-Stack Developer** with a passion for building innovative and impactful software solutions. With a background in software egineering and over a decade of experience in high-level restaurant management, I bring a unique perspective to the tech world. My journey from managing teams to managing code has fueled my curiosity and drive to learn and create.
 
 ## 🔭 Current Focus:
 - **JavaScript & MERN Stack:** Enhancing my skills in building dynamic, responsive web applications.
